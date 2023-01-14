@@ -2,6 +2,13 @@
 
 ## Problem description
 
+Skin cancer is one of the most common cancer in the world, it's estimated that one out of five Americans will develop skin cancer in their lifetime. There are several factors that came into consideration while evaluating skin lesion, a good early diagnoses usually has better prognosis for succesfull treament approach, in that sense it is critical to have a good tool to help dermatologists to make a good diagnosis.
+
+This project is focused on building a model that can help dermatologists to make a better diagnosis of skin cancer. The model will be able to classify the type of skin cancer and identify the one that has the highest probability in our prediction.
+
+The implementation of this model will be done using TensorFlow and the model will be deployed in AWS using lambda functions and API endpoint.
+
+The solution to this problem is to build a model that can classify the type of skin cancer and identify the one that has the highest probability in our prediction. The model will be able to classify the type of skin cancer and identify the one that has the highest probability in our prediction.
 
 ## Data
 
